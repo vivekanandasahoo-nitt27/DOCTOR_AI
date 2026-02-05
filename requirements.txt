@@ -1,0 +1,13 @@
+gradio==4.44.0
+huggingface-hub==0.25.2
+
+groq==0.15.0
+python-dotenv
+elevenlabs==1.50.3
+
+reportlab
+Pillow
+pydub
+ffmpy
+numpy
+requests
